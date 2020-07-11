@@ -24,7 +24,7 @@ public class Ejemplo02 {
         
         System.out.println("En USD el valor es de: "+conver1);
         System.out.println("En Europa el valor es de: "+conver2);
-        System.out.println("En El Reino Unido el valor es de "+conver3);
+        System.out.println("En El U K el valor es de "+conver3);
         System.out.println("En Australia el valor es de: "+conver4);
         System.out.println("En Canada el valor es de: "+conver5);
     }
