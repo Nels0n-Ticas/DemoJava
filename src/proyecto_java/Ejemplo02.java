@@ -12,7 +12,7 @@ public class Ejemplo02 {
         reinoUnido = 0.61;
         australia = 0.95;
         canada = 0.97;
-        // Inicialización de Variables
+       
         System.out.println("Ingrese valor monetario: ");
         moneda = leer.nextDouble();
         
